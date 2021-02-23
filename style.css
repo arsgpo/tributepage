@@ -1,0 +1,45 @@
+#main {
+    background-color:lightgrey;
+   text-align:center;
+   padding:20px;
+ }
+ 
+ #title {
+   font-family: ariel;
+ }
+ 
+ #title {
+   padding:20px;
+ }
+   #name {
+     font-size:50px;
+     padding: 10px;
+     margin:auto;
+   }
+ 
+ #img-div {
+   background-color:white;
+   margin:auto 20px;
+   padding: auto 10px;
+ 
+ }
+ 
+   #img-caption {
+   padding:10px;
+   font-size:14px;
+   }  
+   
+   
+ #list {
+   text-align:left;
+   width:500px;
+   margin:0 auto;
+ }
+ 
+ #tribute-info {
+   font-weight:bold;
+ }
+ 
+ li {
+   padding: 10px;
+ }
