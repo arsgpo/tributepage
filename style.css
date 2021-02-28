@@ -1,12 +1,11 @@
 #main {
-    background-color:lightgrey;
+    background-color:rgb(199, 199, 199);
    text-align:center;
    padding:20px;
+   font-family: Helvetica, sans-serif;
  }
  
- #title {
-   font-family: ariel;
- }
+ 
  
  #title {
    padding:20px;
